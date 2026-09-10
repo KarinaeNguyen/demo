@@ -1527,12 +1527,27 @@ footer.footer .footer-links li a:hover {
 }
 
 .qp-stats-grid {
-    margin-top: 20px;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-flex-wrap: wrap !important;
+    -ms-flex-wrap: wrap !important;
+    flex-wrap: wrap !important;
+    margin-top: 25px;
     margin-bottom: 40px;
 }
 
 .qp-stat-col {
     margin-bottom: 25px;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: column !important;
+    flex-direction: column !important;
 }
 
 .qp-stat-card {
@@ -1543,9 +1558,18 @@ footer.footer .footer-links li a:hover {
     border: 1px solid #ede7e1;
     box-shadow: 0 6px 20px rgba(61, 38, 22, 0.05);
     transition: all 0.35s ease;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
+    width: 100% !important;
+    height: 100% !important;
+    -webkit-box-flex: 1 !important;
+    -webkit-flex: 1 1 auto !important;
+    flex: 1 1 auto !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: column !important;
+    flex-direction: column !important;
     align-items: center;
     justify-content: center;
     position: relative;
@@ -1632,6 +1656,13 @@ footer.footer .footer-links li a:hover {
     color: #777777;
     font-weight: 500;
     line-height: 1.4;
+    min-height: 36px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Khối Điểm Nhấn: 90% Mẫu Thiết Kế Độc Quyền */
@@ -1777,55 +1808,109 @@ footer.footer .footer-links li a:hover {
 
 @media (max-width: 767px) {
     .qp-stats-section {
-        padding: 45px 0 40px 0;
+        padding: 40px 0 35px 0;
     }
 
     .qp-stats-heading {
         font-size: 26px;
     }
 
+    .qp-stats-grid {
+        display: -webkit-box !important;
+        display: -webkit-flex !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        -webkit-flex-wrap: wrap !important;
+        -ms-flex-wrap: wrap !important;
+        flex-wrap: wrap !important;
+        margin-left: -6px !important;
+        margin-right: -6px !important;
+        margin-top: 15px !important;
+        margin-bottom: 25px !important;
+    }
+
+    .qp-stat-col {
+        width: 50% !important;
+        max-width: 50% !important;
+        -webkit-box-flex: 0 !important;
+        -webkit-flex: 0 0 50% !important;
+        -ms-flex: 0 0 50% !important;
+        flex: 0 0 50% !important;
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+        margin-bottom: 12px !important;
+        float: none !important;
+        display: -webkit-box !important;
+        display: -webkit-flex !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        -webkit-box-orient: vertical !important;
+        -webkit-box-direction: normal !important;
+        -webkit-flex-direction: column !important;
+        flex-direction: column !important;
+    }
+
     .qp-stat-card {
-        padding: 20px 12px;
+        padding: 18px 8px !important;
+        min-height: 175px !important;
+        height: 100% !important;
+        -webkit-box-flex: 1 !important;
+        -webkit-flex: 1 1 auto !important;
+        flex: 1 1 auto !important;
+        box-shadow: 0 4px 15px rgba(61, 38, 22, 0.06) !important;
     }
 
     .qp-stat-icon-wrap {
-        width: 48px;
-        height: 48px;
-        margin-bottom: 10px;
+        width: 44px;
+        height: 44px;
+        margin-bottom: 8px;
     }
 
     .qp-stat-icon-wrap i {
-        font-size: 20px;
+        font-size: 19px;
     }
 
     .qp-stat-number {
-        font-size: 30px;
+        font-size: 27px;
+        letter-spacing: -0.5px;
     }
 
     .qp-stat-suffix {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .qp-stat-unit-text {
-        font-size: 12px;
+        font-size: 11px;
+        margin-top: 2px;
+        margin-bottom: 4px;
     }
 
     .qp-stat-label {
-        font-size: 11px;
+        font-size: 10.5px;
+        line-height: 1.35;
+        min-height: 30px;
+        display: -webkit-box !important;
+        display: -webkit-flex !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
     }
 
     .qp-stats-highlight-banner {
         padding: 24px 16px;
         gap: 16px;
+        margin-top: 10px;
     }
 
     .qp-highlight-title {
-        font-size: 15px;
+        font-size: 14.5px;
         line-height: 1.45;
     }
 
     .qp-highlight-desc {
-        font-size: 12.5px;
+        font-size: 12px;
     }
 
     .qp-highlight-actions {
@@ -1846,8 +1931,9 @@ footer.footer .footer-links li a:hover {
    ========================================================================== */
 .qp-floating-zalo {
     position: fixed;
-    left: 24px;
-    bottom: 24px;
+    left: 20px;
+    bottom: 20px;
+    bottom: calc(20px + env(safe-area-inset-bottom, 0px));
     z-index: 99998;
     display: flex;
     align-items: center;
@@ -1973,11 +2059,12 @@ footer.footer .footer-links li a:hover {
     transform: scale(1.05);
 }
 
-/* Mobile responsive for Zalo Floating button */
+/* Mobile responsive for Zalo Floating button & Scroll-to-top */
 @media (max-width: 767px) {
     .qp-floating-zalo {
-        left: 14px;
-        bottom: 16px;
+        left: 12px;
+        bottom: 14px;
+        bottom: calc(14px + env(safe-area-inset-bottom, 0px));
     }
 
     .qp-zalo-link {
@@ -2008,5 +2095,11 @@ footer.footer .footer-links li a:hover {
 
     .qp-zalo-subtitle {
         display: none;
+    }
+
+    body .dmtop.show {
+        bottom: 14px !important;
+        bottom: calc(14px + env(safe-area-inset-bottom, 0px)) !important;
+        right: 12px !important;
     }
 }
