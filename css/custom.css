@@ -409,6 +409,12 @@ h1, h2, h3, h4, h5, h6,
     color: #f7d59c !important;
 }
 
+.btn-light {
+    background-color: var(--qp-primary, #8b6f5d) !important;
+    border: 2px solid var(--qp-primary, #8b6f5d) !important;
+    color: #ffffff !important;
+}
+
 .btn-light.btn-radius {
     border-radius: 0 16px 0 16px;
     font-weight: 600;
@@ -418,13 +424,14 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .btn-light.btn-brd {
-    border: 2px solid #ffffff;
-    color: #ffffff;
+    background-color: transparent !important;
+    border: 2px solid rgba(255, 255, 255, 0.7) !important;
+    color: #ffffff !important;
 }
 
 .btn-light.btn-brd:hover {
-    background: var(--qp-terracotta) !important;
-    border-color: var(--qp-terracotta) !important;
+    background: var(--qp-primary, #8b6f5d) !important;
+    border-color: var(--qp-primary, #8b6f5d) !important;
     color: #ffffff !important;
 }
 
@@ -2287,17 +2294,214 @@ footer.footer .footer-links.hov li a:hover {
     margin-top: 55px;
 }
 
-/* Testimonials Section Spacing */
-#testimonials {
-    padding: 120px 0 115px 0 !important;
+/* ==========================================================================
+   TESTIMONIALS: ELEGANT COMPACT QUOTE SHOWCASE (ZERO ORANGE)
+   ========================================================================== */
+#testimonials.qp-testimonials-section {
+    background: linear-gradient(145deg, #2b1a10 0%, #1a0f08 100%) !important;
+    padding: 75px 0 70px 0 !important;
+    position: relative;
+    overflow: hidden;
 }
 
-#testimonials .testi-carousel {
-    margin-top: 25px;
+#testimonials.qp-testimonials-section::before {
+    content: "";
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 600px;
+    height: 350px;
+    background: radial-gradient(ellipse at center, rgba(212, 175, 55, 0.09) 0%, transparent 70%);
+    pointer-events: none;
 }
 
-.btn-testi-wrap {
-    margin-top: 50px;
+#testimonials .section-title {
+    margin-bottom: 30px !important;
+}
+
+.qp-testi-badge {
+    display: inline-block;
+    padding: 5px 16px;
+    background: rgba(212, 175, 55, 0.12);
+    color: #f1cf7b;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    border-radius: 25px;
+    margin-bottom: 12px;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    text-transform: uppercase;
+}
+
+.qp-testi-badge i {
+    color: #f1cf7b !important;
+    margin-right: 5px;
+    font-size: 11px;
+}
+
+#testimonials .section-title h3 {
+    color: #ffffff !important;
+    font-size: 30px !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.3px;
+    margin-bottom: 10px;
+}
+
+#testimonials .section-title p.lead {
+    color: #d6cdc5 !important;
+    font-size: 15px !important;
+    line-height: 1.65;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+/* Quote Card: Compact, Centered, Luxury Wood & Gold */
+.qp-quote-card {
+    background: rgba(255, 255, 255, 0.04) !important;
+    border: 1px solid rgba(212, 175, 55, 0.22) !important;
+    border-radius: 16px !important;
+    padding: 32px 42px 28px 42px !important;
+    max-width: 780px;
+    margin: 0 auto !important;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+    position: relative;
+    transition: all 0.35s ease;
+}
+
+.qp-quote-card:hover {
+    border-color: rgba(212, 175, 55, 0.45) !important;
+    background: rgba(255, 255, 255, 0.06) !important;
+    transform: translateY(-3px);
+}
+
+.qp-quote-mark {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 50px;
+    line-height: 1;
+    color: var(--qp-accent, #d4af37) !important;
+    margin-bottom: 6px;
+    opacity: 0.9;
+    font-weight: 700;
+}
+
+.qp-quote-heading {
+    font-size: 18.5px !important;
+    font-weight: 700 !important;
+    color: #f1cf7b !important;
+    line-height: 1.45 !important;
+    margin: 0 0 12px 0 !important;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.qp-quote-body {
+    font-size: 15px !important;
+    line-height: 1.8 !important;
+    color: #ded7cf !important;
+    font-style: italic !important;
+    font-weight: 400 !important;
+    margin: 0 auto 20px auto !important;
+    max-width: 640px;
+}
+
+.qp-quote-author {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 12px;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.qp-quote-avatar {
+    width: 44px !important;
+    height: 44px !important;
+    border-radius: 50% !important;
+    border: 2px solid var(--qp-accent, #d4af37) !important;
+    object-fit: cover !important;
+    display: inline-block !important;
+    float: none !important;
+    margin: 0 !important;
+}
+
+.qp-quote-author-meta {
+    text-align: left;
+}
+
+.qp-quote-author-name {
+    font-size: 14.5px;
+    font-weight: 700;
+    color: #ffffff;
+    display: block;
+    line-height: 1.3;
+}
+
+.qp-quote-author-role {
+    font-size: 12px;
+    color: #bfaea2;
+    display: block;
+    margin-top: 2px;
+    line-height: 1.3;
+}
+
+/* Owl Navigation Controls: ZERO ORANGE, LUXURY MINIMAL */
+#testimonials .owl-nav .owl-prev,
+#testimonials .owl-nav .owl-next {
+    background: rgba(255, 255, 255, 0.08) !important;
+    border: 1px solid rgba(212, 175, 55, 0.35) !important;
+    color: #f1cf7b !important;
+    width: 42px !important;
+    height: 42px !important;
+    line-height: 40px !important;
+    border-radius: 50% !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25) !important;
+    transition: all 0.3s ease !important;
+}
+
+#testimonials .owl-nav .owl-prev i,
+#testimonials .owl-nav .owl-next i {
+    font-size: 16px !important;
+    color: #f1cf7b !important;
+    line-height: 40px !important;
+    background: transparent !important;
+    width: auto !important;
+    height: auto !important;
+    position: static !important;
+    border-radius: 0 !important;
+}
+
+#testimonials .owl-nav .owl-prev {
+    left: -20px !important;
+}
+
+#testimonials .owl-nav .owl-next {
+    right: -20px !important;
+}
+
+#testimonials .owl-nav .owl-prev:hover,
+#testimonials .owl-nav .owl-next:hover {
+    background: var(--qp-primary, #8b6f5d) !important;
+    border-color: var(--qp-accent, #d4af37) !important;
+    color: #ffffff !important;
+    transform: translateY(-50%) scale(1.08) !important;
+}
+
+#testimonials .owl-nav .owl-prev:hover i,
+#testimonials .owl-nav .owl-next:hover i {
+    color: #ffffff !important;
+    background: transparent !important;
+}
+
+/* Remove any legacy orange icons or styles */
+#testimonials .desc,
+#testimonials .desc h3 i,
+.desc h3 i {
+    color: var(--qp-accent, #d4af37) !important;
+}
+
+#testimonials .btn-testi-wrap {
+    margin-top: 30px !important;
 }
 
 /* Consultation CTA Section Spacing */
@@ -2393,12 +2597,38 @@ footer.footer {
         margin-top: 35px;
     }
 
-    #testimonials {
-        padding: 70px 0 65px 0 !important;
+    #testimonials.qp-testimonials-section {
+        padding: 50px 0 45px 0 !important;
+    }
+
+    #testimonials .section-title {
+        margin-bottom: 25px !important;
+    }
+
+    #testimonials .section-title h3 {
+        font-size: 22px !important;
+    }
+
+    .qp-quote-card {
+        padding: 22px 18px 18px 18px !important;
+    }
+
+    .qp-quote-heading {
+        font-size: 15.5px !important;
+    }
+
+    .qp-quote-body {
+        font-size: 13.5px !important;
+        line-height: 1.65 !important;
+    }
+
+    #testimonials .owl-nav .owl-prev,
+    #testimonials .owl-nav .owl-next {
+        display: none !important;
     }
 
     .btn-testi-wrap {
-        margin-top: 35px;
+        margin-top: 25px !important;
     }
 
     .qp-consultation-section {
