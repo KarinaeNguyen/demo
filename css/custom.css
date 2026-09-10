@@ -2103,3 +2103,64 @@ footer.footer .footer-links li a:hover {
         right: 12px !important;
     }
 }
+
+/* ==========================================================================
+   FOOTER: COMPANY META & 3-COLUMN STRUCTURE
+   ========================================================================== */
+.footer-company-meta {
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.footer-company-meta .footer-links {
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-company-meta .footer-links li {
+    margin-bottom: 9px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #cccccc;
+}
+
+.footer-company-meta .footer-links li i {
+    width: 20px;
+    text-align: center;
+    color: var(--qp-accent, #d4af37);
+    margin-right: 6px;
+    font-size: 14px;
+}
+
+footer.footer .widget-title h3 {
+    position: relative;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0.2px;
+}
+
+footer.footer .widget-title h3::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    height: 2.5px;
+    background: var(--qp-accent, #d4af37);
+    border-radius: 2px;
+}
+
+footer.footer .footer-links.hov li a {
+    transition: all 0.25s ease;
+    display: inline-block;
+}
+
+footer.footer .footer-links.hov li a:hover {
+    color: #f7d59c !important;
+    transform: translateX(5px);
+}

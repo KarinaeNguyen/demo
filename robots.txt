@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karinaenguyen.github.io/demo/sitemap.xml
+# LLMs discovery
+# https://llmstxt.org
+# LLMs-Text: https://karinaenguyen.github.io/demo/llms.txt

@@ -1,0 +1,48 @@
+# CÔNG TY TNHH THIẾT KẾ QUỐC PHAN (QUOC PHAN DESIGN)
+
+> Chuyên thiết kế và thi công nội thất cao cấp với xưởng sản xuất trực tiếp tại TP. Hồ Chí Minh. Khẳng định 100% Made in Vietnam với giải pháp tối ưu chi phí và chất lượng bền vững.
+
+## Thông Tin Doanh Nghiệp (Company Overview)
+- **Tên đầy đủ**: CÔNG TY TNHH THIẾT KẾ QUỐC PHAN
+- **Thương hiệu**: Quoc Phan Design
+- **Mã số thuế (Tax Identification Number)**: 0314372672
+- **Ngày bắt đầu hoạt động (Official Starting Day)**: 2017-04-26
+- **Trụ sở chính**: 434/34 Bình Quới, Phường 28, Quận Bình Thạnh, TP. Hồ Chí Minh, Việt Nam
+- **Quy mô xưởng sản xuất**: 1.000m² - Trang bị máy móc CNC tự động hóa, dán cạnh không đường line
+- **Hotline / Zalo tư vấn**: 0912-400-503
+- **Nhóm Zalo hỗ trợ & báo giá**: https://zalo.me/g/anqvwcclatvb9lgtxzcn
+- **Email**: info@quocphan.vn
+- **Website**: https://quocphan.vn (Demo: https://karinaenguyen.github.io/demo/)
+
+## Năng Lực & Số Liệu Thống Kê (Key Statistics)
+- **100% Made in Vietnam**: Sản xuất nội địa tự chủ, kiểm soát nghiêm ngặt từ khâu nguyên vật liệu đến thành phẩm.
+- **10+ năm**: Kinh nghiệm hoạt động trong ngành thiết kế kiến trúc và thi công nội thất thực chiến.
+- **315+ dự án**: Hoàn thiện bàn giao (biệt thự, căn hộ chung cư cao cấp, nhà phố, shophouse, homestay).
+- **5.000+ mẫu nội thất**: Thiết kế đa dạng phong cách (Hiện đại, Tân cổ điển, Indochine, Japandi, Wabi-sabi).
+- **1.000m²**: Diện tích xưởng sản xuất đồ gỗ trực tiếp, giá tận xưởng không qua trung gian.
+- **90% mẫu thiết kế độc quyền**: Được lưu trữ và tái sử dụng, giúp khách hàng tiết kiệm 20% - 30% chi phí và rút ngắn 50% thời gian thiết kế.
+
+## Dịch Vụ Cung Cấp (Core Services)
+1. **Thiết kế nội thất 3D & hồ sơ kỹ thuật 2D**: Khảo sát hiện trạng, tư vấn phong cách theo gu thẩm mỹ cá nhân, dựng bản vẽ phối cảnh 3D chân thực và bản vẽ kỹ thuật chi tiết.
+2. **Sản xuất đồ gỗ nội thất trực tiếp**: Gia công tại xưởng riêng với máy móc tự động hóa CNC, gỗ tự nhiên (gỗ óc chó, sồi...) và gỗ công nghiệp chuẩn An Cường chống ẩm.
+3. **Thi công chìa khóa trao tay (Turnkey execution)**: Thi công trọn gói đúng tiến độ cam kết, giám sát chất lượng từng công đoạn, dọn dẹp sạch sẽ trước khi bàn giao.
+4. **Bảo hành & Bảo trì dài hạn**: Bảo hành kết cấu đồ gỗ lên đến 5 năm, hỗ trợ kiểm tra định kỳ và xử lý kỹ thuật trong vòng 24 giờ.
+
+## Phân Khúc Khách Hàng (Customer Segments)
+- **Khách hàng cá nhân (B2C - Chủ nhà & Căn hộ dịch vụ)**: Tư vấn may đo theo nhu cầu sinh hoạt thực tế của gia đình, cá nhân hóa từng không gian sống.
+- **Khách hàng doanh nghiệp & Chủ đầu tư**: Giải pháp nội thất tối ưu cho căn hộ cho thuê, homestay, shophouse, khách sạn boutique nhằm thu hồi vốn nhanh.
+- **Đối tác B2B (Nhà thầu, Kiến trúc sư & Đơn vị thiết kế)**: Gia công đồ gỗ theo bản vẽ kỹ thuật với giá sỉ xuất xưởng, bóc tách khối lượng và hoàn thiện sắc nét.
+
+## Danh Mục Liên Kết & Sơ Đồ Web (Site Map & Navigation)
+- [Trang Chủ](https://karinaenguyen.github.io/demo/index.html): Giới thiệu năng lực, số liệu thống kê 100% Made in Vietnam, các dự án tiêu biểu.
+- [Giới Thiệu](https://karinaenguyen.github.io/demo/gioi-thieu.html): Lịch sử hình thành, đội ngũ sáng lập, tầm nhìn và sứ mệnh.
+- [Khách Hàng](https://karinaenguyen.github.io/demo/khach-hang.html): Đánh giá, cảm nhận và hình ảnh thực tế từ khách hàng.
+- [Nội Thất](https://karinaenguyen.github.io/demo/noi-that.html): Bộ sưu tập dự án phòng khách, phòng ngủ, phòng bếp, căn hộ cao cấp.
+- [Xưởng Sản Xuất](https://karinaenguyen.github.io/demo/xuong.html): Năng lực máy móc CNC, quy trình sản xuất và hình ảnh xưởng mộc 1000m².
+- [Báo Giá](https://karinaenguyen.github.io/demo/bao-gia.html): Bảng giá tham khảo, công cụ tính dự toán chi phí thi công nội thất.
+- [Blog Cẩm Nang](https://karinaenguyen.github.io/demo/blog.html): Chia sẻ kiến thức chọn vật liệu, phong thủy nhà ở và xu hướng thiết kế nội thất.
+- [Liên Hệ](https://karinaenguyen.github.io/demo/lien-he.html): Thông tin địa chỉ trụ sở, bản đồ chỉ đường, hotline và form đăng ký tư vấn.
+- [Khách Hàng Cá Nhân](https://karinaenguyen.github.io/demo/danh-cho-chu-nha.html): Dành riêng cho chủ nhà, căn hộ chung cư.
+- [Chủ Đầu Tư](https://karinaenguyen.github.io/demo/danh-cho-nha-dau-tu.html): Dành cho chủ đầu tư căn hộ dịch vụ, shophouse.
+- [Đối Tác B2B](https://karinaenguyen.github.io/demo/danh-cho-doi-tac.html): Dành cho nhà thầu, kiến trúc sư hợp tác gia công xưởng.
+- [Sơ Đồ Trang Web (Sitemap)](https://karinaenguyen.github.io/demo/sitemap.xml): XML sitemap chính thức cho công cụ tìm kiếm và AI bots.
