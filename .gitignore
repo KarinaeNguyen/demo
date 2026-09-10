@@ -1,0 +1,14 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+.DS_Store
+
+# IDE and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
