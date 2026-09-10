@@ -238,4 +238,38 @@
         });
     });
 
+    /* ==============================================
+       Animated Counter for Statistics Section
+       ============================================== */
+    var countersAnimated = false;
+    function animateCounters() {
+        if (countersAnimated) return;
+        var $statSection = $('#statistics');
+        if (!$statSection.length) return;
+
+        var rect = $statSection[0].getBoundingClientRect();
+        if (rect.top <= (window.innerHeight || document.documentElement.clientHeight) * 0.95) {
+            countersAnimated = true;
+            $('.counter').each(function () {
+                var $this = $(this);
+                var target = parseInt($this.attr('data-count'), 10);
+                if (isNaN(target)) return;
+
+                $({ countNum: 0 }).animate({ countNum: target }, {
+                    duration: 1800,
+                    easing: 'swing',
+                    step: function () {
+                        $this.text(Math.floor(this.countNum));
+                    },
+                    complete: function () {
+                        $this.text(this.countNum);
+                    }
+                });
+            });
+        }
+    }
+
+    $(window).on('scroll load', animateCounters);
+    $(document).ready(animateCounters);
+
 })(jQuery);
