@@ -239,37 +239,80 @@
     });
 
     /* ==============================================
-       Animated Counter for Statistics Section
+       Subtle Scroll Reveal & Rolling Counter for Statistics Section
        ============================================== */
-    var countersAnimated = false;
-    function animateCounters() {
-        if (countersAnimated) return;
+    var statsAnimated = false;
+
+    function triggerStatsAnimation() {
+        if (statsAnimated) return;
         var $statSection = $('#statistics');
         if (!$statSection.length) return;
 
-        var rect = $statSection[0].getBoundingClientRect();
-        if (rect.top <= (window.innerHeight || document.documentElement.clientHeight) * 0.95) {
-            countersAnimated = true;
-            $('.counter').each(function () {
+        statsAnimated = true;
+        $statSection.addClass('qp-stats-visible');
+
+        // Delay number roll slightly so the card reveal motion is already underway
+        setTimeout(function () {
+            $('.counter').each(function (idx) {
                 var $this = $(this);
                 var target = parseInt($this.attr('data-count'), 10);
                 if (isNaN(target)) return;
 
-                $({ countNum: 0 }).animate({ countNum: target }, {
-                    duration: 1800,
+                $({ countNum: 0 }).delay(idx * 70).animate({ countNum: target }, {
+                    duration: 2000,
                     easing: 'swing',
                     step: function () {
-                        $this.text(Math.floor(this.countNum));
+                        var val = Math.floor(this.countNum);
+                        if (target >= 1000) {
+                            $this.text(val.toLocaleString('vi-VN'));
+                        } else {
+                            $this.text(val);
+                        }
                     },
                     complete: function () {
-                        $this.text(this.countNum);
+                        if (target >= 1000) {
+                            $this.text(target.toLocaleString('vi-VN'));
+                        } else {
+                            $this.text(target);
+                        }
                     }
                 });
             });
-        }
+        }, 280);
     }
 
-    $(window).on('scroll load', animateCounters);
-    $(document).ready(animateCounters);
+    var $statSection = $('#statistics');
+    if ($statSection.length) {
+        // Initialize counter display to 0
+        $('.counter').text('0');
+
+        if ('IntersectionObserver' in window) {
+            var statsObserver = new IntersectionObserver(function (entries) {
+                entries.forEach(function (entry) {
+                    if (entry.isIntersecting && !statsAnimated) {
+                        triggerStatsAnimation();
+                        statsObserver.unobserve(entry.target);
+                    }
+                });
+            }, {
+                threshold: 0.15,
+                rootMargin: '0px 0px -40px 0px'
+            });
+            statsObserver.observe($statSection[0]);
+        } else {
+            // Robust fallback for older browsers
+            function checkStatsScroll() {
+                if (statsAnimated) return;
+                var rect = $statSection[0].getBoundingClientRect();
+                var vh = window.innerHeight || document.documentElement.clientHeight;
+                if (rect.top <= vh * 0.85 && rect.bottom >= 0) {
+                    triggerStatsAnimation();
+                    $(window).off('scroll resize', checkStatsScroll);
+                }
+            }
+            $(window).on('scroll resize', checkStatsScroll);
+            $(document).ready(checkStatsScroll);
+        }
+    }
 
 })(jQuery);
