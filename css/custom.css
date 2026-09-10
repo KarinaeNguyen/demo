@@ -1840,3 +1840,173 @@ footer.footer .footer-links li a:hover {
         font-size: 12.5px;
     }
 }
+
+/* ==========================================================================
+   FLOATING ZALO WIDGET & ZALO INTEGRATION
+   ========================================================================== */
+.qp-floating-zalo {
+    position: fixed;
+    left: 24px;
+    bottom: 24px;
+    z-index: 99998;
+    display: flex;
+    align-items: center;
+    pointer-events: auto;
+}
+
+.qp-zalo-link {
+    display: inline-flex;
+    align-items: center;
+    background: #ffffff;
+    padding: 6px 16px 6px 6px;
+    border-radius: 40px;
+    box-shadow: 0 8px 25px rgba(0, 104, 255, 0.28), 0 3px 10px rgba(0, 0, 0, 0.08);
+    text-decoration: none !important;
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: 1.5px solid rgba(0, 104, 255, 0.2);
+}
+
+.qp-zalo-link:hover {
+    transform: translateY(-4px) scale(1.03);
+    box-shadow: 0 12px 30px rgba(0, 104, 255, 0.38), 0 5px 15px rgba(0, 0, 0, 0.12);
+    border-color: #0068ff;
+}
+
+.qp-zalo-icon-box {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, #0084ff 0%, #0068ff 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 4px 12px rgba(0, 104, 255, 0.35);
+    flex-shrink: 0;
+}
+
+.qp-zalo-icon-box svg {
+    display: block;
+    width: 28px;
+    height: 28px;
+}
+
+.qp-zalo-icon-box img,
+.qp-zalo-img {
+    display: block;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.qp-zalo-pulse,
+.qp-zalo-pulse-2 {
+    position: absolute;
+    left: 6px;
+    top: 6px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: rgba(0, 104, 255, 0.4);
+    z-index: 1;
+    pointer-events: none;
+    animation: qpZaloPulse 2s infinite ease-out;
+}
+
+.qp-zalo-pulse-2 {
+    animation-delay: 0.8s;
+}
+
+@keyframes qpZaloPulse {
+    0% {
+        transform: scale(1);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(2.1);
+        opacity: 0;
+    }
+}
+
+.qp-zalo-text-badge {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    line-height: 1.25;
+}
+
+.qp-zalo-title {
+    font-size: 13.5px;
+    font-weight: 700;
+    color: #0068ff;
+    letter-spacing: -0.2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.qp-zalo-subtitle {
+    font-size: 11px;
+    color: #666666;
+    font-weight: 500;
+}
+
+/* Topbar Zalo Icon */
+.topbar-zalo {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: #0068ff;
+    color: #ffffff !important;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 9px;
+    border-radius: 12px;
+    transition: all 0.25s ease;
+    vertical-align: middle;
+}
+
+.topbar-zalo:hover {
+    background: #0052cc;
+    transform: scale(1.05);
+}
+
+/* Mobile responsive for Zalo Floating button */
+@media (max-width: 767px) {
+    .qp-floating-zalo {
+        left: 14px;
+        bottom: 16px;
+    }
+
+    .qp-zalo-link {
+        padding: 4px 12px 4px 4px;
+    }
+
+    .qp-zalo-icon-box {
+        width: 42px;
+        height: 42px;
+    }
+
+    .qp-zalo-icon-box svg {
+        width: 24px;
+        height: 24px;
+    }
+
+    .qp-zalo-pulse,
+    .qp-zalo-pulse-2 {
+        left: 4px;
+        top: 4px;
+        width: 42px;
+        height: 42px;
+    }
+
+    .qp-zalo-title {
+        font-size: 12px;
+    }
+
+    .qp-zalo-subtitle {
+        display: none;
+    }
+}
