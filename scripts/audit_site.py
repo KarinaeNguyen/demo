@@ -43,11 +43,9 @@ for bf in blog_files:
         if not os.path.exists(target):
             errors.append(f"{fname} links to missing related article: {rl}")
             
-    # Check placeholders
-    if "<image" not in content:
-        errors.append(f"{fname} is missing <image> placeholder!")
-    if 'data-placeholder="true"' not in content:
-        errors.append(f"{fname} is missing data-placeholder attribute!")
+    # Check image comments
+    if "<!-- <image" not in content:
+        errors.append(f"{fname} is missing <!-- <image> comment placeholder!")
 
 if errors:
     print(f"FOUND {len(errors)} ERRORS:")

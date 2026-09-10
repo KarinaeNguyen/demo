@@ -33,13 +33,7 @@ BLOG_POSTS = [
             <p>Chúng tôi thấu hiểu rằng khi tìm kiếm đơn vị sản xuất nội thất Quận Bình Thạnh, bạn đang tìm kiếm một đối tác tin cậy: không chỉ có năng lực sản xuất máy móc hiện đại mà đội ngũ thợ mộc phải giàu kinh nghiệm, tỉ mỉ trong từng đường dán cạnh nẹp, bản lề giảm chấn đến nước sơn hoàn thiện.</p>
             <p>Với lợi thế xưởng sản xuất đặt ngay tại Bình Quới, Quận Bình Thạnh, chúng tôi luôn sẵn sàng mời khách hàng ghé thăm trực tiếp xưởng để kiểm tra chất lượng phôi gỗ, phụ kiện và quy trình gia công thực tế trước khi lắp đặt tại công trình.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-01-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Nội thất tủ bếp tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Nội thất tủ bếp tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh</em></p>
-            </div>
+            <!-- <image src="" alt="Nội thất tủ bếp tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /> -->
 
             <h2 id="sec-2">II. Thiết kế độc đáo – Phản ánh đậm nét cá tính gia chủ</h2>
             <p>Mỗi ngôi nhà là một câu chuyện riêng biệt, biểu tượng cho phong cách sống và gu thẩm mỹ của chủ nhân. Đội ngũ kiến trúc sư tại Quốc Phan không áp dụng các mẫu thiết kế rập khuôn có sẵn ngoài thị trường, mà dành thời gian lắng nghe thói quen sinh hoạt của từng thành viên để đưa ra giải pháp:</p>
@@ -49,13 +43,7 @@ BLOG_POSTS = [
                 <li><strong>Đảm bảo tính trung thực về vật liệu:</strong> Cam kết 100% phôi gỗ công nghiệp MDF lõi xanh chống ẩm chuẩn An Cường hoặc Ba Thanh chính hãng, minh bạch mã số màu gỗ.</li>
             </ul>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-01-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Tủ bếp acrylic hiện đại sang trọng tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Tủ bếp acrylic hiện đại sang trọng tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh</em></p>
-            </div>
+            <!-- <image src="" alt="Tủ bếp acrylic hiện đại sang trọng tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /> -->
 
             <h2 id="sec-3">III. Dịch vụ thi công chuyên nghiệp & chính sách bảo hành tận tâm</h2>
             <p>Sự chuyên nghiệp của Quốc Phan không dừng lại ở khâu đóng đồ gỗ mà thể hiện xuyên suốt từ quá trình khảo sát hiện trạng công trình, lên bản vẽ chi tiết 2D/3D cho đến công tác bọc màng PE bảo vệ sản phẩm, vận chuyển và thi công lắp ráp sạch sẽ, an toàn.</p>
@@ -63,24 +51,12 @@ BLOG_POSTS = [
                 "Chính sách bảo hành kết cấu gỗ lên tới 5 năm và bảo trì phụ kiện trọn đời là lời khẳng định vững chắc nhất cho chất lượng đồ gỗ xuất xưởng từ Quốc Phan Design."
             </blockquote>
 
-            <!-- IMAGE PLACEHOLDER 3 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-01-img-03">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Tủ bếp melamine tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Tủ bếp melamine tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh</em></p>
-            </div>
+            <!-- <image src="" alt="Tủ bếp melamine tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /> -->
 
             <h2 id="sec-4">IV. Cam kết vật liệu chuẩn An Cường & tiến độ bàn giao chính xác</h2>
             <p>Khi lựa chọn đặt may đo nội thất trực tiếp tại xưởng Quốc Phan, khách hàng tiết kiệm được từ 20% đến 30% chi phí trung gian so với các showroom thương mại. Bạn hoàn toàn chủ động theo dõi tiến độ sản xuất và được đội ngũ KTS đồng hành trực tiếp từ đầu đến khi trao chìa khóa bàn giao công trình.</p>
 
-            <!-- IMAGE PLACEHOLDER 4 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-01-img-04">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Tủ bếp laminate hiện đại tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Tủ bếp laminate hiện đại tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh</em></p>
-            </div>
+            <!-- <image src="" alt="Tủ bếp laminate hiện đại tại Bình Thạnh – Đơn vị sản xuất nội thất quận bình thạnh" /> -->
         """
     },
     {
@@ -107,13 +83,7 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Lợi thế vị trí xưởng sản xuất tủ bếp Bình Thạnh</h2>
             <p>Nằm trên trục đường Bình Quới, xưởng mộc Quốc Phan có vị trí giao thông vô cùng thuận tiện, nhanh chóng tiếp cận khảo sát mặt bằng và đo đạc tại các quận trung tâm như Quận 1, Quận 2 (TP Thủ Đức), Phú Nhuận và Gò Vấp. Khách hàng có thể dễ dàng ghé thăm xưởng để duyệt trực tiếp mẫu cánh Acrylic không đường line hoặc màu vân gỗ Melamine thực tế trước khi chốt bản vẽ kỹ thuật.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-02-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Xưởng sản xuất tủ bếp Bình Thạnh với vị trí thuận lợi – Quốc Phan Design" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Xưởng sản xuất tủ bếp Bình Thạnh với vị trí thuận lợi – Quốc Phan Design</em></p>
-            </div>
+            <!-- <image src="" alt="Xưởng sản xuất tủ bếp Bình Thạnh với vị trí thuận lợi – Quốc Phan Design" /> -->
 
             <h2 id="sec-2">2. Các dòng chất liệu tủ bếp được ưa chuộng nhất 2024</h2>
             <p>Để đảm bảo độ bền tối ưu trong môi trường nấu nướng ẩm nhiệt cao, xưởng Quốc Phan chuyên gia công các giải pháp vật liệu cao cấp:</p>
@@ -124,24 +94,12 @@ BLOG_POSTS = [
                 <li><strong>Cánh phủ Laminate chống trầy xước:</strong> Dành cho các gia chủ yêu thích phong cách vân gỗ ấm áp, chống va quẹt hiệu quả.</li>
             </ul>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-02-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu tủ bếp chữ L hiện đại cánh Acrylic kết hợp khoang kệ rượu tại Bình Thạnh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu tủ bếp chữ L hiện đại cánh Acrylic kết hợp khoang kệ rượu tại Bình Thạnh</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu tủ bếp chữ L hiện đại cánh Acrylic kết hợp khoang kệ rượu tại Bình Thạnh" /> -->
 
             <h2 id="sec-3">3. Bố trí tam giác công năng bếp chuẩn khoa học</h2>
             <p>Một bộ tủ bếp đẹp chưa đủ, nó phải tiện dụng cho người nội trợ. Kiến trúc sư Quốc Phan luôn tuân thủ nguyên tắc <em>Tam Giác Hoạt Động (Tủ lạnh - Bồn rửa - Bếp nấu)</em> với khoảng cách di chuyển từ 1.2m đến 2.7m, giúp giảm thiểu tối đa bước chân khi chuẩn bị bữa ăn.</p>
 
-            <!-- IMAGE PLACEHOLDER 3 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-02-img-03">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ phụ kiện inox thông minh giá nâng hạ bát đĩa và kệ xoong nồi tủ bếp" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ phụ kiện inox thông minh giá nâng hạ bát đĩa và kệ xoong nồi tủ bếp</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ phụ kiện inox thông minh giá nâng hạ bát đĩa và kệ xoong nồi tủ bếp" /> -->
 
             <h2 id="sec-4">4. Quy trình đóng tủ bếp tại xưởng Quốc Phan</h2>
             <p>Từ lúc tiếp nhận nhu cầu đến khi hoàn thiện chỉ kéo dài từ 7 đến 10 ngày làm việc. Sản phẩm được lắp ráp thử nghiệm tại xưởng trước khi đóng kiện bọc mút xốp chuyển đến căn hộ, đảm bảo thi công lắp đặt tại nhà khách hàng chỉ mất từ 1 đến 2 ngày mà không gây bụi bặm hay tiếng ồn kéo dài.</p>
@@ -171,37 +129,19 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Tại sao thiết kế căn hộ 3 phòng ngủ lại cần sự tính toán kỹ lưỡng?</h2>
             <p>Khác với căn hộ độc thân hay 1-2 phòng ngủ, căn hộ 3PN đòi hỏi sự hài hòa giữa nhiều độ tuổi: ông bà cần sự yên tĩnh thoáng đãng, bố mẹ cần không gian thư giãn sang trọng và con cái cần góc học tập sáng tạo, an toàn. Một bản thiết kế nội thất bài bản sẽ giúp phân luồng giao thông thông suốt, không gian không bị ngột ngạt dù chứa nhiều đồ đạc sinh hoạt.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-03-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phối cảnh phòng khách liền bếp căn hộ 3 phòng ngủ hiện đại – Quốc Phan Design" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phối cảnh phòng khách liền bếp căn hộ 3 phòng ngủ hiện đại – Quốc Phan Design</em></p>
-            </div>
+            <!-- <image src="" alt="Phối cảnh phòng khách liền bếp căn hộ 3 phòng ngủ hiện đại – Quốc Phan Design" /> -->
 
             <h2 id="sec-2">2. Thiết kế phòng khách & bếp mở tạo không gian sinh hoạt chung</h2>
             <p>Xu hướng không gian mở (Open Concept) kết nối liên hoàn giữa phòng khách, bàn ăn và đảo bếp đang là lựa chọn số một. Sử dụng hệ sofa chữ L bọc nỉ cao cấp cùng bàn trà mặt đá phiến, kết hợp đèn thả trần nghệ thuật tạo điểm nhấn trung tâm sang trọng.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-03-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Không gian phòng ngủ Master rộng rãi với hệ tủ quần áo cánh kính sang trọng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Không gian phòng ngủ Master rộng rãi với hệ tủ quần áo cánh kính sang trọng</em></p>
-            </div>
+            <!-- <image src="" alt="Không gian phòng ngủ Master rộng rãi với hệ tủ quần áo cánh kính sang trọng" /> -->
 
             <h2 id="sec-3">3. Bố trí 3 phòng ngủ: Master sang trọng, phòng ngủ con năng động</h2>
             <p><strong>Phòng ngủ Master:</strong> Là chốn riêng tư của gia chủ, ưu tiên sử dụng giường ngủ bọc nệm đầu giường, vách ốp gỗ trang trí đầu giường tích hợp dải đèn LED âm trần 3000K dịu nhẹ, hệ tủ quần áo kịch trần kết hợp bàn trang điểm treo tường.</p>
             <p><strong>Phòng ngủ cho bé:</strong> Tùy theo bé trai hay bé gái, màu sắc sẽ được lựa chọn tươi sáng (xanh mint, pastel, vàng nhạt) kết hợp bàn học liền giá sách thông minh và giường tầng hoặc giường đơn có ngăn kéo chứa đồ chơi.</p>
             <p><strong>Phòng ngủ phụ / Phòng cho ông bà hoặc khách:</strong> Tone màu trung tính nhã nhặn, chú trọng sự êm ái của đệm ngủ và ánh sáng tự nhiên lưu thông tốt.</p>
 
-            <!-- IMAGE PLACEHOLDER 3 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-03-img-03">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu phòng ngủ đôi cho bé tiện nghi với giường tầng thông minh tiết kiệm diện tích" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu phòng ngủ đôi cho bé tiện nghi với giường tầng thông minh tiết kiệm diện tích</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu phòng ngủ đôi cho bé tiện nghi với giường tầng thông minh tiết kiệm diện tích" /> -->
         """
     },
     {
@@ -228,13 +168,7 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Định nghĩa phong cách Modern Luxury trong kiến trúc nội thất</h2>
             <p>Khác biệt lớn nhất của phong cách này là sự đề cao tính cá nhân hóa và công năng ứng dụng tối ưu. Từng món đồ may đo không chỉ là đồ nội thất mà còn là một tác phẩm nghệ thuật có tỉ lệ chuẩn mực, vừa vặn tuyệt đối với không gian sống.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-04-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Không gian phòng khách phong cách Modern Luxury tone gỗ óc chó kết hợp da kem sang trọng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Không gian phòng khách phong cách Modern Luxury tone gỗ óc chó kết hợp da kem sang trọng</em></p>
-            </div>
+            <!-- <image src="" alt="Không gian phòng khách phong cách Modern Luxury tone gỗ óc chó kết hợp da kem sang trọng" /> -->
 
             <h2 id="sec-2">2. Bảng màu kinh điển: Gỗ nâu trầm hòa quyện cùng tone kem & xám</h2>
             <p>Sự phối hợp màu sắc trong nội thất hiện đại sang trọng luôn tuân thủ nguyên tắc 60 - 30 - 10:</p>
@@ -244,13 +178,7 @@ BLOG_POSTS = [
                 <li><strong>10% Màu điểm nhấn kim loại & đá:</strong> Nẹp kim loại vàng champagne, mặt bàn đá vân mây cẩm thạch.</li>
             </ul>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-04-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Chi tiết vách tivi ốp đá đối vân kết hợp nan gỗ và chỉ viền mạ vàng PVD" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Chi tiết vách tivi ốp đá đối vân kết hợp nan gỗ và chỉ viền mạ vàng PVD</em></p>
-            </div>
+            <!-- <image src="" alt="Chi tiết vách tivi ốp đá đối vân kết hợp nan gỗ và chỉ viền mạ vàng PVD" /> -->
 
             <h2 id="sec-3">3. Vật liệu tạo nên đẳng cấp: Đá cẩm thạch, da bò thật và nẹp đồng PVD</h2>
             <p>Chất liệu chính là linh hồn của sự sang trọng. Quốc Phan Design tuyển chọn kỹ lưỡng các dòng ván gỗ công nghiệp phủ Veneer óc chó tự nhiên nhập khẩu Bắc Mỹ, kết hợp ray trượt đóng êm Blum Movento và phụ kiện tủ áo Hafele Đức để mang đến trải nghiệm chạm êm ái nhất cho gia chủ.</p>
@@ -280,24 +208,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Thách thức không gian trong căn hộ chung cư 70m2</h2>
             <p>Nếu mua sẵn đồ nội thất bán rời ngoài showroom, bạn sẽ dễ gặp tình trạng kích thước tủ quá lớn làm che khuất lối đi, hoặc tủ quá nhỏ để lộ khoảng hở đóng bụi bẩn trên nóc tủ. May đo nội thất kịch trần theo đúng kích thước hiện trạng thực tế là giải pháp triệt để nhất cho căn hộ 70m2.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-05-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu thiết kế phòng khách căn hộ chung cư 70m2 hiện đại với sofa nỉ nhỏ gọn" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu thiết kế phòng khách căn hộ chung cư 70m2 hiện đại với sofa nỉ nhỏ gọn</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu thiết kế phòng khách căn hộ chung cư 70m2 hiện đại với sofa nỉ nhỏ gọn" /> -->
 
             <h2 id="sec-2">2. Bố trí ánh sáng tự nhiên và mở rộng tầm nhìn</h2>
             <p>Ánh sáng tự nhiên từ ban công và cửa sổ phòng ngủ là tài sản quý giá nhất. Quốc Phan áp dụng hệ rèm 2 lớp (1 lớp voan trắng lấy sáng dịu, 1 lớp cản sáng chống nóng) kết hợp gương dán tường trang trí cạnh bàn ăn giúp phản chiếu ánh sáng và nhân đôi cảm giác chiều sâu cho gian phòng khách.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-05-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phối cảnh ánh sáng tự nhiên tràn ngập góc làm việc trong căn hộ 70m2" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phối cảnh ánh sáng tự nhiên tràn ngập góc làm việc trong căn hộ 70m2</em></p>
-            </div>
+            <!-- <image src="" alt="Phối cảnh ánh sáng tự nhiên tràn ngập góc làm việc trong căn hộ 70m2" /> -->
 
             <h2 id="sec-3">3. Đồ nội thất đa năng giải phóng mặt sàn</h2>
             <p>Hệ tủ giày liền kệ trang trí vách ngăn lối vào, giường ngủ bục tích hợp ngăn kéo đựng chăn ga gối đệm, bàn ăn thông minh có thể gấp gọn kéo dài là những món đồ không thể thiếu giúp căn hộ 70m² luôn ngăn nắp.</p>
@@ -327,24 +243,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Chọn đúng đối tác: Có xưởng sản xuất trực tiếp và pháp lý rõ ràng</h2>
             <p>Thay vì thuê các công ty môi giới thiết kế nhận thầu rồi bắn lại cho các xưởng nhỏ lẻ bên ngoài, bạn nên làm việc trực tiếp với đơn vị có pháp nhân công ty rõ ràng và sở hữu xưởng mộc riêng. Điều này giúp kiểm soát chất lượng đầu vào của gỗ, đồng bộ từ khâu bản vẽ thiết kế đến khi lắp ráp đồ nội thất.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-06-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Thi công nội thất phòng khách nhà phố hiện đại với vách ốp lam sóng kết hợp đá tự nhiên" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Thi công nội thất phòng khách nhà phố hiện đại với vách ốp lam sóng kết hợp đá tự nhiên</em></p>
-            </div>
+            <!-- <image src="" alt="Thi công nội thất phòng khách nhà phố hiện đại với vách ốp lam sóng kết hợp đá tự nhiên" /> -->
 
             <h2 id="sec-2">2. Đánh giá kinh nghiệm và công trình thực tế đã thi công</h2>
             <p>Hãy yêu cầu đơn vị thi công cho bạn xem hình ảnh chụp thực tế tại các công trình nhà phố họ vừa bàn giao. Quan sát kỹ các mối ghép nối chân len tường, nẹp dán cạnh tủ áo, bản lề cửa và độ khít của các cánh tủ để đánh giá tay nghề của thợ.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-06-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Đội ngũ kỹ thuật Quốc Phan đo đạc và khảo sát hiện trạng nhà phố nhiều tầng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Đội ngũ kỹ thuật Quốc Phan đo đạc và khảo sát hiện trạng nhà phố nhiều tầng</em></p>
-            </div>
+            <!-- <image src="" alt="Đội ngũ kỹ thuật Quốc Phan đo đạc và khảo sát hiện trạng nhà phố nhiều tầng" /> -->
 
             <h2 id="sec-3">3. Khảo sát kỹ hiện trạng chống thấm tầng trệt và tường bao</h2>
             <p>Khu vực tầng trệt nhà phố thường xuyên chịu tác động ẩm từ đất nền bốc lên. Đối với tủ bếp tầng trệt hoặc tủ giầy đặt sát cửa ra vào, xưởng Quốc Phan khuyến nghị sử dụng cốt gỗ nhựa Picomat chịu nước hoặc đóng chân inox cách ẩm, không đặt ván gỗ trực tiếp chạm sàn gạch ẩm ướt.</p>
@@ -379,13 +283,7 @@ BLOG_POSTS = [
                 <li><strong>Đặc biệt:</strong> Giảm ngay 50% đến 100% phí thiết kế khi ký hợp đồng thi công sản xuất nội thất trọn gói tại xưởng Quốc Phan.</li>
             </ul>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-07-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Bảng dự toán bóc tách khối lượng chi tiết từng phòng tại xưởng Quốc Phan" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Bảng dự toán bóc tách khối lượng chi tiết từng phòng tại xưởng Quốc Phan</em></p>
-            </div>
+            <!-- <image src="" alt="Bảng dự toán bóc tách khối lượng chi tiết từng phòng tại xưởng Quốc Phan" /> -->
 
             <h2 id="sec-2">II. Đơn giá sản xuất đồ gỗ nội thất theo từng mét vuông / mét dài</h2>
             <p>Đồ gỗ may đo trực tiếp được tính theo quy chuẩn kỹ thuật ngành mộc:</p>
@@ -397,13 +295,7 @@ BLOG_POSTS = [
                 <li><strong>Giường ngủ 1.8m x 2.0m có ngăn kéo:</strong> 6.500.000đ – 8.500.000đ / bộ.</li>
             </ul>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-07-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Thi công hoàn thiện căn hộ 2 phòng ngủ thực tế theo báo giá trọn gói" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Thi công hoàn thiện căn hộ 2 phòng ngủ thực tế theo báo giá trọn gói</em></p>
-            </div>
+            <!-- <image src="" alt="Thi công hoàn thiện căn hộ 2 phòng ngủ thực tế theo báo giá trọn gói" /> -->
         """
     },
     {
@@ -430,24 +322,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Lịch sử hình thành và phát triển thương hiệu</h2>
             <p>Bắt đầu từ một xưởng mộc truyền thống với niềm đam mê sâu sắc với từng thớ gỗ, Quốc Phan đã không ngừng nâng cấp đầu tư trang thiết bị công nghệ hiện đại. Ngày nay, chúng tôi phục vụ hàng trăm dự án mỗi năm từ các căn hộ cao cấp như Vinhomes Central Park, Hà Đô Centrosa, Saigon South Residences đến các biệt thự, nhà phố tại Bình Thạnh, Gò Vấp, Quận 2 và Quận 7.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-08-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Đội ngũ kiến trúc sư và thợ mộc lành nghề tại xưởng sản xuất Quốc Phan Design" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Đội ngũ kiến trúc sư và thợ mộc lành nghề tại xưởng sản xuất Quốc Phan Design</em></p>
-            </div>
+            <!-- <image src="" alt="Đội ngũ kiến trúc sư và thợ mộc lành nghề tại xưởng sản xuất Quốc Phan Design" /> -->
 
             <h2 id="sec-2">2. Triết lý kinh doanh: Làm việc bằng cái tâm và chuẩn mực tay nghề</h2>
             <p>Chúng tôi không xem việc làm nội thất là một giao dịch thương mại đơn thuần, mà là sứ mệnh kiến tạo không gian sống tiện nghi, nuôi dưỡng hạnh phúc của mỗi gia đình. Từng mét ván cắt ra, từng đường nẹp dán đều được kiểm định khắt khe trước khi xuất xưởng.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-08-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ thống máy cắt CNC và máy dán cạnh tự động tại xưởng gỗ Quốc Phan" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ thống máy cắt CNC và máy dán cạnh tự động tại xưởng gỗ Quốc Phan</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ thống máy cắt CNC và máy dán cạnh tự động tại xưởng gỗ Quốc Phan" /> -->
 
             <h2 id="sec-3">3. Năng lực xưởng sản xuất máy móc CNC tự động hóa</h2>
             <p>Xưởng mộc Quốc Phan tọa lạc tại 434/34 Bình Quới, Phường 28, Quận Bình Thạnh có quy mô rộng rãi, trang bị máy cắt ván tự động CNC liên kết phần mềm thiết kế 3D, máy dán cạnh nẹp tự động đa chức năng và buồng sơn cách bụi hiện đại, đảm bảo sản phẩm xuất xưởng có độ sắc nét hoàn mỹ.</p>
@@ -477,24 +357,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">I. Những điểm nổi bật tại dự án thi công nội thất Phú Mỹ Hưng</h2>
             <p>Dự án sở hữu diện tích rộng rãi với tầm nhìn thoáng đãng ra công viên rợp bóng cây xanh. Ý tưởng chủ đạo là đưa ánh sáng tự nhiên ngập tràn vào không gian, kết hợp hệ đồ gỗ sồi tự nhiên màu sáng cùng các chi tiết bọc da bò Ý cao cấp.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-09-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng khách rộng mở nhìn ra công viên tại dự án Phú Mỹ Hưng Quận 7" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng khách rộng mở nhìn ra công viên tại dự án Phú Mỹ Hưng Quận 7</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng khách rộng mở nhìn ra công viên tại dự án Phú Mỹ Hưng Quận 7" /> -->
 
             <h2 id="sec-2">II. Giải pháp thiết kế phòng khách & đại sảnh thông tầng</h2>
             <p>Khu vực phòng khách được nhấn nhá bằng hệ vách ốp kết hợp giữa gỗ tự nhiên xẻ nan nghệ thuật và đá marble cẩm thạch trắng Calacatta sang trọng. Bàn trà đôi chân kim loại mạ PVD bóng loáng mang lại vẻ đẹp quyền quý nhưng vẫn rất thanh thoát.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-09-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ tủ bếp kết hợp đảo bếp bar sang trọng tại căn hộ Phú Mỹ Hưng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ tủ bếp kết hợp đảo bếp bar sang trọng tại căn hộ Phú Mỹ Hưng</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ tủ bếp kết hợp đảo bếp bar sang trọng tại căn hộ Phú Mỹ Hưng" /> -->
         """
     },
     {
@@ -521,24 +389,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Hệ thống hút bụi trung tâm bảo vệ môi trường và bề mặt ván</h2>
             <p>Chúng tôi trang bị hệ thống đường ống hút bụi chân không công suất lớn nối trực tiếp tới từng đầu máy cưa, máy phay CNC. Bề mặt ván gỗ trước khi dán cạnh luôn được làm sạch tuyệt đối, ngăn ngừa tình trạng cộm phồng hay nổi bọt khí.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-10-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ thống hút bụi công nghiệp và khu vực thao tác máy xưởng Quốc Phan" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ thống hút bụi công nghiệp và khu vực thao tác máy xưởng Quốc Phan</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ thống hút bụi công nghiệp và khu vực thao tác máy xưởng Quốc Phan" /> -->
 
             <h2 id="sec-2">2. Khu vực máy cắt CNC & dán cạnh nẹp tự động đa chức năng</h2>
             <p>Dữ liệu bản vẽ 3D được số hóa trực tiếp và chuyển sang mã G-code cho máy CNC tự động cắt, khoan lỗ cam chốt chính xác. Nhờ đó, công đoạn lắp ráp khung tủ tại công trình diễn ra ăn khớp, nhanh chóng và chuẩn xác tuyệt đối.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-10-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Kho lưu trữ vật tư gỗ An Cường và khu vực đóng gói xuất xưởng an toàn" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Kho lưu trữ vật tư gỗ An Cường và khu vực đóng gói xuất xưởng an toàn</em></p>
-            </div>
+            <!-- <image src="" alt="Kho lưu trữ vật tư gỗ An Cường và khu vực đóng gói xuất xưởng an toàn" /> -->
         """
     },
     {
@@ -561,24 +417,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>Tại các dự án chung cư cao cấp, cư dân không chỉ mua một mét vuông ở, mà là tận hưởng trải nghiệm sống tiện nghi và thư giãn sau một ngày dài làm việc. Việc thiết kế nội thất vì thế phải đặt sự thoải mái và yếu tố công thái học (Ergonomics) lên hàng đầu.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-11-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phối cảnh phòng khách chung cư cao cấp với hệ tủ rượu cánh kính đèn LED âm tủ" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phối cảnh phòng khách chung cư cao cấp với hệ tủ rượu cánh kính đèn LED âm tủ</em></p>
-            </div>
+            <!-- <image src="" alt="Phối cảnh phòng khách chung cư cao cấp với hệ tủ rượu cánh kính đèn LED âm tủ" /> -->
 
             <h2 id="sec-1">1. Tiêu chí đánh giá một không gian nội thất chung cư cao cấp</h2>
             <p>Nội thất cao cấp được nhận biết qua 3 yếu tố: sự tinh tế của các chi tiết ghép mộng, sự êm ái của toàn bộ hệ thống ray giảm chấn khi đóng mở hộc tủ, và khả năng phối trộn màu sắc hài hòa không gây mỏi mắt.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-11-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Không gian phòng ngủ master cao cấp với sàn gỗ và vách ốp nỉ ấm áp" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Không gian phòng ngủ master cao cấp với sàn gỗ và vách ốp nỉ ấm áp</em></p>
-            </div>
+            <!-- <image src="" alt="Không gian phòng ngủ master cao cấp với sàn gỗ và vách ốp nỉ ấm áp" /> -->
         """
     },
     {
@@ -604,13 +448,7 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Bề mặt thùng tủ bếp Bình Thạnh MFC phủ Melamine chống ẩm</h2>
             <p>Cốt gỗ ván dăm chống ẩm (MFC lõi xanh) hoặc ván sợi mật độ trung bình (MDF lõi xanh) được tẩm sấy keo chịu nước chuyên dụng, ép nóng lớp giấy phủ Melamine bảo vệ ngăn ngừa sự thẩm thấu của chất lỏng.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-12-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu tủ bếp Melamine vân gỗ sồi kết hợp cánh trắng tinh tế tại Bình Thạnh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu tủ bếp Melamine vân gỗ sồi kết hợp cánh trắng tinh tế tại Bình Thạnh</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu tủ bếp Melamine vân gỗ sồi kết hợp cánh trắng tinh tế tại Bình Thạnh" /> -->
 
             <h2 id="sec-2">2. Sự đa dạng trong màu sắc và hoa văn vân gỗ tự nhiên</h2>
             <p>Từ các tone vân gỗ sồi Scandinavia sáng màu đến tone gỗ óc chó nâu trầm ấm áp, Melamine tái hiện sắc sảo từng đường vân gỗ tự nhiên mà không lo mối mọt hay co ngót theo thời gian.</p>
@@ -640,24 +478,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Tổng quan dự án thiết kế và thi công căn hộ Hà Đô Centrosa</h2>
             <p>Căn hộ có diện tích 86m², hướng nhìn thông thoáng ra trung tâm Sài Gòn. Gia chủ yêu thích phong cách hiện đại ấm cúng, ưu tiên sử dụng tone màu be nhã nhặn kết hợp gỗ MDF lõi xanh chống ẩm An Cường cao cấp.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-13-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng khách căn hộ Hà Đô Centrosa Quận 10 hoàn thiện thực tế – Quốc Phan Design" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng khách căn hộ Hà Đô Centrosa Quận 10 hoàn thiện thực tế – Quốc Phan Design</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng khách căn hộ Hà Đô Centrosa Quận 10 hoàn thiện thực tế – Quốc Phan Design" /> -->
 
             <h2 id="sec-2">2. Ý tưởng thiết kế phòng khách liền ban công thoáng đãng</h2>
             <p>Hệ tủ tivi được thiết kế treo tường tối giản kết hợp nan ốp gỗ trang trí tạo cảm giác thanh thoát. Điểm xuyết cùng sofa nỉ cao cấp và thảm dệt tay tạo nên không gian tiếp khách thân mật, sang trọng.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-13-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ tủ quần áo kịch trần kết hợp bàn trang điểm phòng ngủ căn hộ Hà Đô" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ tủ quần áo kịch trần kết hợp bàn trang điểm phòng ngủ căn hộ Hà Đô</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ tủ quần áo kịch trần kết hợp bàn trang điểm phòng ngủ căn hộ Hà Đô" /> -->
         """
     },
     {
@@ -681,24 +507,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>TP.HCM với khí hậu nhiệt đới gió mùa có độ ẩm không khí cao, việc lựa chọn chất liệu đóng tủ bếp cần đặc biệt chú ý đến tính kháng ẩm và chống mối mọt. Đóng tủ bếp trực tiếp tại xưởng Quốc Phan giúp khách hàng yên tâm tuyệt đối về nguồn gốc xuất xứ vật tư.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-14-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu tủ bếp chữ U có quầy bar sang trọng thi công tại TPHCM – Quốc Phan Design" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu tủ bếp chữ U có quầy bar sang trọng thi công tại TPHCM – Quốc Phan Design</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu tủ bếp chữ U có quầy bar sang trọng thi công tại TPHCM – Quốc Phan Design" /> -->
 
             <h2 id="sec-1">1. Thực trạng thị trường tủ bếp tại TP.HCM hiện nay</h2>
             <p>Nhiều xưởng trôi nổi sử dụng phôi gỗ tạp kém chất lượng hoặc dán cạnh thủ công bằng bàn là khiến mép tủ nhanh chóng bị bong tróc sau vài tháng sử dụng. Quốc Phan sử dụng 100% máy dán cạnh nẹp nhiệt tự động đa chức năng với keo PUR chống nước cao cấp.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-14-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ tay nâng cánh tủ bếp Blum Aventos trợ lực nhẹ nhàng thi công tại TPHCM" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ tay nâng cánh tủ bếp Blum Aventos trợ lực nhẹ nhàng thi công tại TPHCM</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ tay nâng cánh tủ bếp Blum Aventos trợ lực nhẹ nhàng thi công tại TPHCM" /> -->
         """
     },
     {
@@ -721,24 +535,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>Căn hộ 2 phòng ngủ thường dao động từ 55m² đến 75m². Đây là diện tích lý tưởng để kiến trúc sư thỏa sức sáng tạo các giải pháp đồ gỗ may đo đa năng, tạo nên không gian sinh hoạt ấm cúng và ngập tràn năng lượng tích cực.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-15-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phối cảnh 3D tổng thể căn hộ 2 phòng ngủ hiện đại với gam màu pastel thanh lịch" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phối cảnh 3D tổng thể căn hộ 2 phòng ngủ hiện đại với gam màu pastel thanh lịch</em></p>
-            </div>
+            <!-- <image src="" alt="Phối cảnh 3D tổng thể căn hộ 2 phòng ngủ hiện đại với gam màu pastel thanh lịch" /> -->
 
             <h2 id="sec-1">1. Bố cục mặt bằng căn hộ 2 phòng ngủ thông minh</h2>
             <p>Phòng khách và khu vực bàn ăn nên được đặt ở vị trí trung tâm đón ánh sáng tự nhiên từ logia. Hai phòng ngủ bố trí tách biệt về hai phía hoặc kế bên nhau với cửa mở hợp phong thủy.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-15-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng ngủ phụ với giường bục thông minh kết hợp bàn học bên cửa sổ" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng ngủ phụ với giường bục thông minh kết hợp bàn học bên cửa sổ</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng ngủ phụ với giường bục thông minh kết hợp bàn học bên cửa sổ" /> -->
         """
     },
     {
@@ -761,24 +563,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>Biến một bản vẽ phối cảnh 3D đẹp lung linh thành sản phẩm thật ngoài đời thực mà không có sự chênh lệch là cam kết hàng đầu của Quốc Phan. Mỗi công trình căn hộ 2 phòng ngủ đều được chúng tôi quản lý tiến độ chặt chẽ qua từng mốc nghiệm thu.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-16-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hình ảnh thực tế bàn giao phòng khách căn hộ 2 phòng ngủ sạch sẽ, sắc nét" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hình ảnh thực tế bàn giao phòng khách căn hộ 2 phòng ngủ sạch sẽ, sắc nét</em></p>
-            </div>
+            <!-- <image src="" alt="Hình ảnh thực tế bàn giao phòng khách căn hộ 2 phòng ngủ sạch sẽ, sắc nét" /> -->
 
             <h2 id="sec-1">1. Nhật ký công trình: Khảo sát hiện trạng & lắp đặt</h2>
             <p>Từ lúc tiếp nhận bàn giao thô từ chủ đầu tư, đội ngũ kỹ thuật Quốc Phan tiến hành quét laser kiểm tra độ thẳng của tường và góc vuông của các góc chết, đảm bảo khi đưa tủ áo kịch trần vào lắp ráp không bị hở khe tường.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-16-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Góc tủ bếp và bàn ăn hoàn thiện thực tế chuẩn xác 100% so với bản vẽ 3D" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Góc tủ bếp và bàn ăn hoàn thiện thực tế chuẩn xác 100% so với bản vẽ 3D</em></p>
-            </div>
+            <!-- <image src="" alt="Góc tủ bếp và bàn ăn hoàn thiện thực tế chuẩn xác 100% so với bản vẽ 3D" /> -->
         """
     },
     {
@@ -804,24 +594,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Tổng quan dự án thiết kế thi công phòng ngủ 2023</h2>
             <p>Dự án phòng ngủ master được KTS Quốc Phan thiết kế theo phong cách hiện đại với gam màu nâu gỗ kết hợp be sáng. Giường ngủ bọc đệm êm ái kết hợp vách ốp gỗ trang trí tích hợp đèn LED hắt khe tường tạo không gian lãng mạn.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-17-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu phòng ngủ master với hệ vách ốp đầu giường gỗ kết hợp nẹp chỉ kim loại sang trọng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu phòng ngủ master với hệ vách ốp đầu giường gỗ kết hợp nẹp chỉ kim loại sang trọng</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu phòng ngủ master với hệ vách ốp đầu giường gỗ kết hợp nẹp chỉ kim loại sang trọng" /> -->
 
             <h2 id="sec-2">2. Hình ảnh thực tế khi thi công phòng ngủ may đo</h2>
             <p>Tủ áo kịch trần kết hợp bàn trang điểm được đo đạc tỉ mỉ theo đúng chiều cao trần nhà, loại bỏ hoàn toàn góc chết đóng bụi và nhân đôi khả năng chứa đồ cho gia chủ.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-17-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Chi tiết tủ quần áo cánh kính viền nhôm xingfa anode cao cấp tại phòng ngủ" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Chi tiết tủ quần áo cánh kính viền nhôm xingfa anode cao cấp tại phòng ngủ</em></p>
-            </div>
+            <!-- <image src="" alt="Chi tiết tủ quần áo cánh kính viền nhôm xingfa anode cao cấp tại phòng ngủ" /> -->
         """
     },
     {
@@ -844,24 +622,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>Căn hộ tại dự án SSG Tower sở hữu tầm nhìn đắt giá ôm trọn bán đảo Thanh Đa và sông Sài Gòn thơ mộng. Để tôn vinh tầm nhìn tuyệt mỹ này, nội thất được thiết kế tinh giản tối đa với những đường nét thanh mảnh, tránh cảm giác cồng kềnh che khuất cửa sổ kính kịch sàn.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-18-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Không gian phòng khách căn hộ chung cư SSG Tower view sông Sài Gòn thoáng mát" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Không gian phòng khách căn hộ chung cư SSG Tower view sông Sài Gòn thoáng mát</em></p>
-            </div>
+            <!-- <image src="" alt="Không gian phòng khách căn hộ chung cư SSG Tower view sông Sài Gòn thoáng mát" /> -->
 
             <h2 id="sec-1">1. Tổng quan dự án thi công nội thất chung cư SSG</h2>
             <p>Căn hộ có diện tích 115m² với 3 phòng ngủ tiện nghi. Toàn bộ vách ốp trang trí và hệ tủ áo được may đo bằng cốt ván HDF siêu chống ẩm phủ Veneer sồi tự nhiên sơn bóng mờ PU cao cấp.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-18-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Chi tiết bàn ăn nguyên tấm kết hợp ghế ăn bọc da cao cấp tại căn hộ SSG" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Chi tiết bàn ăn nguyên tấm kết hợp ghế ăn bọc da cao cấp tại căn hộ SSG</em></p>
-            </div>
+            <!-- <image src="" alt="Chi tiết bàn ăn nguyên tấm kết hợp ghế ăn bọc da cao cấp tại căn hộ SSG" /> -->
         """
     },
     {
@@ -887,24 +653,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">I. Xu hướng nội thất phòng khách hiện đại 2024</h2>
             <p>Các đường bo cong mềm mại (Curved furniture) trên sofa, bàn trà và hệ vách ngăn đang thay thế dần các góc vuông sắc nhọn thô cứng, mang lại cảm giác ấm cúng, an toàn và uyển chuyển cho gian phòng khách.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-19-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu nội thất phòng khách đẹp 2024 với đường nét bo cong mềm mại và cây xanh" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu nội thất phòng khách đẹp 2024 với đường nét bo cong mềm mại và cây xanh</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu nội thất phòng khách đẹp 2024 với đường nét bo cong mềm mại và cây xanh" /> -->
 
             <h2 id="sec-2">II. Nội thất nhà bếp đẹp & tiện nghi 2024</h2>
             <p>Nhà bếp năm 2024 tôn vinh sự tối giản sạch sẽ với hệ cánh tủ phẳng không tay nắm (J-pull / Gola nhôm), kết hợp máy rửa chén âm tủ và bồn chậu rửa đúc liền khối thẩm mỹ cao.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-19-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Mẫu nhà bếp đẹp 2024 với hệ tủ phẳng không tay nắm kết hợp ánh sáng LED thanh ray" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Mẫu nhà bếp đẹp 2024 với hệ tủ phẳng không tay nắm kết hợp ánh sáng LED thanh ray</em></p>
-            </div>
+            <!-- <image src="" alt="Mẫu nhà bếp đẹp 2024 với hệ tủ phẳng không tay nắm kết hợp ánh sáng LED thanh ray" /> -->
         """
     },
     {
@@ -930,24 +684,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Thiết kế nội thất nhà phố và lên ý tưởng bố trí giếng trời</h2>
             <p>Khoảng giếng trời giữa nhà được tận dụng làm trục đối lưu không khí, kết hợp tiểu cảnh cây xanh và vách gỗ trang trí chạy dài suốt 3 tầng lầu tạo điểm nhấn thị giác vô cùng ấn tượng.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-20-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng khách nhà phố tại Gò Vấp với giếng trời tràn ngập ánh sáng tự nhiên" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng khách nhà phố tại Gò Vấp với giếng trời tràn ngập ánh sáng tự nhiên</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng khách nhà phố tại Gò Vấp với giếng trời tràn ngập ánh sáng tự nhiên" /> -->
 
             <h2 id="sec-2">2. Thi công nội thất nhà phố và những lưu ý an toàn kỹ thuật</h2>
             <p>Cầu thang bộ có độ dốc vừa phải, mặt bậc ốp gỗ gõ đỏ tự nhiên chống trơn trượt kết hợp tay vịn gỗ và lan can kính cường lực 10mm thanh thoát, đảm bảo an toàn tuyệt đối cho người già và trẻ nhỏ.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-20-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ tủ bếp gỗ công nghiệp cao cấp thi công tại nhà phố Gò Vấp – Quốc Phan" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ tủ bếp gỗ công nghiệp cao cấp thi công tại nhà phố Gò Vấp – Quốc Phan</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ tủ bếp gỗ công nghiệp cao cấp thi công tại nhà phố Gò Vấp – Quốc Phan" /> -->
         """
     },
     {
@@ -970,24 +712,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>Căn hộ 71m² tại dự án Saigon South Residences (SSR) sở hữu ban công view hồ bơi xanh mát. Gia chủ yêu cầu một gói thi công hoàn thiện trọn gói với chi phí tối ưu nhưng độ bền vật tư phải vượt trội.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-21-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Không gian phòng khách hoàn thiện trọn gói căn hộ 2 phòng ngủ SSR – Quốc Phan Design" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Không gian phòng khách hoàn thiện trọn gói căn hộ 2 phòng ngủ SSR – Quốc Phan Design</em></p>
-            </div>
+            <!-- <image src="" alt="Không gian phòng khách hoàn thiện trọn gói căn hộ 2 phòng ngủ SSR – Quốc Phan Design" /> -->
 
             <h2 id="sec-1">1. Đặc điểm mặt bằng căn hộ 2 phòng ngủ Saigon South Residences</h2>
             <p>Không gian được thiết kế liên thông giữa bếp chữ L và phòng khách. Hệ tủ giầy kịch trần kết hợp ghế ngồi xỏ giày tiện dụng ngay lối vào giúp giải quyết triệt để sự lộn xộn của mũ bảo hiểm và giày dép.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-21-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng ngủ master ấm cúng với tủ áo cánh lùa tiết kiệm diện tích tại căn hộ SSR" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng ngủ master ấm cúng với tủ áo cánh lùa tiết kiệm diện tích tại căn hộ SSR</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng ngủ master ấm cúng với tủ áo cánh lùa tiết kiệm diện tích tại căn hộ SSR" /> -->
         """
     },
     {
@@ -1014,24 +744,12 @@ BLOG_POSTS = [
             <h2 id="sec-1">1. Tinh thần cốt lõi của phong cách nội thất Japandi</h2>
             <p>Japandi không chạy theo những gì quá hoàn hảo bóng bẩy. Nó trân trọng vẻ đẹp nguyên bản của vân gỗ tự nhiên, những đường nét vuông vức giản dị nhưng ẩn chứa công năng lưu trữ vô cùng thông minh.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-22-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng khách phong cách Japandi kiểu Nhật với bàn trà bệt và ghế bọc vải thô mộc" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng khách phong cách Japandi kiểu Nhật với bàn trà bệt và ghế bọc vải thô mộc</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng khách phong cách Japandi kiểu Nhật với bàn trà bệt và ghế bọc vải thô mộc" /> -->
 
             <h2 id="sec-2">2. Vật liệu tự nhiên: Gỗ sáng màu, mây tre đan và vải lanh linen</h2>
             <p>Quốc Phan sử dụng gỗ sồi tự nhiên màu sáng (Light Oak) kết hợp các tấm ốp nan gỗ thưa và chi tiết mây mắt cáo đan thủ công trên cánh tủ, tạo nên cảm giác gần gũi, mát mẻ trong khí hậu nhiệt đới Sài Gòn.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-22-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Góc thưởng trà kiểu Nhật với chiếu tatami và vách ngăn shoji truyền thống" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Góc thưởng trà kiểu Nhật với chiếu tatami và vách ngăn shoji truyền thống</em></p>
-            </div>
+            <!-- <image src="" alt="Góc thưởng trà kiểu Nhật với chiếu tatami và vách ngăn shoji truyền thống" /> -->
         """
     },
     {
@@ -1054,24 +772,12 @@ BLOG_POSTS = [
         "content_html": """
             <p>Thiết kế nội thất tối giản kiểu Nhật (Minimalism) không có nghĩa là để căn nhà trống rỗng nghèo nàn, mà là sự tính toán tinh vi để mọi đồ đạc sinh hoạt đều được cất giấu khéo léo sau những hệ cánh tủ phẳng liền tường.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-23-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Không gian phòng khách tối giản kiểu Nhật thanh tịnh với tone màu be sáng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Không gian phòng khách tối giản kiểu Nhật thanh tịnh với tone màu be sáng</em></p>
-            </div>
+            <!-- <image src="" alt="Không gian phòng khách tối giản kiểu Nhật thanh tịnh với tone màu be sáng" /> -->
 
             <h2 id="sec-1">1. Nguyên tắc 'Ít nhưng chất' trong căn hộ tối giản kiểu Nhật</h2>
             <p>Mỗi món đồ hiện diện trong ngôi nhà đều phải có mục đích rõ ràng và mang lại niềm vui cho gia chủ. Một chiếc sofa bệt êm ái, một chiếc bàn trà thấp bằng gỗ nguyên khối và một bức tranh thủy mặc thiền định là đủ để tạo nên linh hồn cho phòng khách.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-23-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Hệ tủ quần áo kịch trần giấu kín cánh phẳng sơn mờ đồng màu tường phòng ngủ" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Hệ tủ quần áo kịch trần giấu kín cánh phẳng sơn mờ đồng màu tường phòng ngủ</em></p>
-            </div>
+            <!-- <image src="" alt="Hệ tủ quần áo kịch trần giấu kín cánh phẳng sơn mờ đồng màu tường phòng ngủ" /> -->
         """
     },
     {
@@ -1101,24 +807,12 @@ BLOG_POSTS = [
             <strong>Phong cách:</strong> Hiện đại sang trọng kết hợp gỗ óc chó và đá Marble.<br>
             <strong>Chất liệu chính:</strong> Gỗ MDF lõi xanh chống ẩm An Cường, phụ kiện Hafele Đức.</p>
 
-            <!-- IMAGE PLACEHOLDER 1 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-24-img-01">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng khách căn hộ chung cư 90m2 Quận 2 rộng mở ra ban công thoáng mát" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng khách căn hộ chung cư 90m2 Quận 2 rộng mở ra ban công thoáng mát</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng khách căn hộ chung cư 90m2 Quận 2 rộng mở ra ban công thoáng mát" /> -->
 
             <h2 id="sec-2">2. Bố trí không gian sinh hoạt chung kết nối đại ban công</h2>
             <p>Bàn ăn mặt đá ceramic 6 ghế bọc da cao cấp được bố trí liền kề đảo bếp tạo thành khu vực phục vụ tiệc trà linh hoạt. Hệ đèn chùm thả trần hiện đại làm bừng sáng gian phòng khách.</p>
 
-            <!-- IMAGE PLACEHOLDER 2 -->
-            <div class="newsletter-image-placeholder" data-placeholder-id="blog-24-img-02">
-                <div class="placeholder-icon-wrap"><i class="fa fa-picture-o"></i></div>
-                <div class="placeholder-title">Vị trí ảnh minh họa thực tế</div>
-                <code class="placeholder-tag-code">&lt;image src="" alt="Phòng ngủ master căn hộ 90m2 với tủ áo cánh kính âm tường sang trọng" /&gt;</code>
-                <p class="placeholder-caption"><em>Chú thích ảnh gốc: Phòng ngủ master căn hộ 90m2 với tủ áo cánh kính âm tường sang trọng</em></p>
-            </div>
+            <!-- <image src="" alt="Phòng ngủ master căn hộ 90m2 với tủ áo cánh kính âm tường sang trọng" /> -->
         """
     }
 ]

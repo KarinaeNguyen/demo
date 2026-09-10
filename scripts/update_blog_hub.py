@@ -24,8 +24,11 @@ def generate_blog_hub():
         else:
             return "cam-nang"
 
+    # Sort posts from newest to oldest (newest first)
+    sorted_posts = sorted(BLOG_POSTS, key=lambda x: x["iso_date"], reverse=True)
+
     cards_html = []
-    for post in BLOG_POSTS:
+    for post in sorted_posts:
         group = get_group(post["category"])
         card = f"""
         <article class="newsletter-feed-item" data-category="{group}" data-title="{post['title'].lower()}" data-desc="{post['meta_desc'].lower()}">
@@ -51,7 +54,7 @@ def generate_blog_hub():
 
     # JSON-LD ItemList
     item_list_elements = []
-    for idx, p in enumerate(BLOG_POSTS):
+    for idx, p in enumerate(sorted_posts):
         item_list_elements.append(f"""
         {{{{
           "@type": "ListItem",
@@ -59,6 +62,7 @@ def generate_blog_hub():
           "url": "https://quocphan.vn/blog/{p['slug']}",
           "name": "{p['title']}"
         }}}}""")
+
     json_ld_items = ",".join(item_list_elements)
 
     html = f"""<!DOCTYPE html>

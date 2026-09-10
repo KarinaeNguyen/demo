@@ -141,9 +141,11 @@
 .newsletter-byline img.author-avatar {
     width: 44px;
     height: 44px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid var(--nl-primary);
+    border-radius: 6px;
+    object-fit: contain;
+    background: #ffffff;
+    border: 1px solid #ded5cb;
+    padding: 3px;
 }
 
 .newsletter-byline .author-name {
@@ -274,62 +276,9 @@
     color: #634a17;
 }
 
-/* IMAGE PLACEHOLDER COMPONENT */
+/* IMAGE PLACEHOLDER COMPONENT (Invisible to users as requested) */
 .newsletter-image-placeholder {
-    margin: 35px 0;
-    background: #faf8f5;
-    border: 2px dashed #cfc5bb;
-    border-radius: 10px;
-    padding: 30px 20px;
-    text-align: center;
-    transition: all 0.25s ease;
-}
-
-.newsletter-image-placeholder:hover {
-    border-color: var(--nl-primary);
-    background: #f7f3ee;
-}
-
-.placeholder-icon-wrap {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 60px;
-    height: 60px;
-    background: #ede6df;
-    color: var(--nl-primary);
-    border-radius: 50%;
-    font-size: 26px;
-    margin-bottom: 12px;
-}
-
-.placeholder-title {
-    font-size: 14px;
-    font-weight: 700;
-    color: var(--nl-primary-dark);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 6px;
-}
-
-.placeholder-tag-code {
-    display: inline-block;
-    background: #eae3db;
-    color: #4a3e36;
-    font-family: 'Consolas', 'Monaco', monospace;
-    font-size: 12.5px;
-    padding: 4px 10px;
-    border-radius: 4px;
-    margin-bottom: 10px;
-}
-
-.placeholder-caption {
-    font-size: 14px;
-    color: #665b52;
-    font-style: italic;
-    margin: 10px auto 0;
-    max-width: 650px;
-    line-height: 1.5;
+    display: none !important;
 }
 
 /* Article Internal Links / Hub CTA Card */
@@ -378,7 +327,7 @@
     color: var(--nl-terracotta);
 }
 
-/* Author Box */
+/* Author Box (Square Logo Holder) */
 .newsletter-author-box {
     background: #fbf9f6;
     border: 1px solid #ebe5df;
@@ -400,11 +349,15 @@
 .newsletter-author-box img {
     width: 80px;
     height: 80px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid var(--nl-primary);
+    border-radius: 8px; /* Square logo holder */
+    object-fit: contain;
+    background: #ffffff;
+    border: 1px solid #ded5cb;
+    padding: 6px;
     flex-shrink: 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
 }
+
 
 .newsletter-author-info h4 {
     margin: 0 0 6px 0;
