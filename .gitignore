@@ -12,3 +12,8 @@ Desktop.ini
 .idea/
 *.sublime-workspace
 *.sublime-project
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class

@@ -40,9 +40,36 @@
 - [Nội Thất](https://karinaenguyen.github.io/demo/noi-that.html): Bộ sưu tập dự án phòng khách, phòng ngủ, phòng bếp, căn hộ cao cấp.
 - [Xưởng Sản Xuất](https://karinaenguyen.github.io/demo/xuong.html): Năng lực máy móc CNC, quy trình sản xuất và hình ảnh xưởng mộc 1000m².
 - [Báo Giá](https://karinaenguyen.github.io/demo/bao-gia.html): Bảng giá tham khảo, công cụ tính dự toán chi phí thi công nội thất.
-- [Blog Cẩm Nang](https://karinaenguyen.github.io/demo/blog.html): Chia sẻ kiến thức chọn vật liệu, phong thủy nhà ở và xu hướng thiết kế nội thất.
+- [Blog Cẩm Nang](https://karinaenguyen.github.io/demo/blog.html): Trung tâm lưu trữ bản tin chuyên sâu với 24 số cẩm nang thiết kế và sản xuất đồ gỗ.
 - [Liên Hệ](https://karinaenguyen.github.io/demo/lien-he.html): Thông tin địa chỉ trụ sở, bản đồ chỉ đường, hotline và form đăng ký tư vấn.
 - [Khách Hàng Cá Nhân](https://karinaenguyen.github.io/demo/danh-cho-chu-nha.html): Dành riêng cho chủ nhà, căn hộ chung cư.
 - [Chủ Đầu Tư](https://karinaenguyen.github.io/demo/danh-cho-nha-dau-tu.html): Dành cho chủ đầu tư căn hộ dịch vụ, shophouse.
 - [Đối Tác B2B](https://karinaenguyen.github.io/demo/danh-cho-doi-tac.html): Dành cho nhà thầu, kiến trúc sư hợp tác gia công xưởng.
 - [Sơ Đồ Trang Web (Sitemap)](https://karinaenguyen.github.io/demo/sitemap.xml): XML sitemap chính thức cho công cụ tìm kiếm và AI bots.
+
+## Danh Mục 24 Số Bản Tin & Cẩm Nang Chuyên Sâu (24 Knowledge Base Articles)
+1. [Đơn Vị Sản Xuất Nội Thất Quận Bình Thạnh 2024](https://karinaenguyen.github.io/demo/blog/don-vi-san-xuat-noi-that-quan-binh-thanh-2024.html): Năng lực sản xuất mộc trực tiếp, máy CNC hiện đại tại Bình Thạnh.
+2. [Xưởng Sản Xuất Tủ Bếp Bình Thạnh 2024](https://karinaenguyen.github.io/demo/blog/xuong-san-xuat-tu-bep-binh-thanh-2024.html): Đóng tủ bếp Acrylic, Melamine lõi xanh chống ẩm chuẩn bản vẽ 3D.
+3. [Bí Quyết Thiết Kế Nội Thất Căn Hộ 3 Phòng Ngủ](https://karinaenguyen.github.io/demo/blog/bi-quyet-thiet-ke-noi-that-can-ho-3-phong-ngu.html): Tối ưu hóa không gian cho gia đình đông thành viên.
+4. [Nội Thất Hiện Đại Sang Trọng Modern Luxury](https://karinaenguyen.github.io/demo/blog/noi-that-hien-dai-sang-trong.html): Xu hướng phối hợp gỗ óc chó, đá cẩm thạch và nẹp PVD vàng.
+5. [Mẫu Thiết Kế Nội Thất Chung Cư 70m2](https://karinaenguyen.github.io/demo/blog/mau-thiet-ke-noi-that-chung-cu-70m2.html): Giải pháp mở rộng thị giác cho căn hộ 2 phòng ngủ 70m2.
+6. [Những Lưu Ý Quan Trọng Khi Thi Công Nhà Phố](https://karinaenguyen.github.io/demo/blog/luu-y-quan-trong-khi-thi-cong-nha-pho.html): Kinh nghiệm chọn đối tác, chống thấm tầng trệt và đường điện nước.
+7. [Báo Giá Thiết Kế Nội Thất Trọn Gói](https://karinaenguyen.github.io/demo/blog/bao-gia-thiet-ke-noi-that-tron-goi.html): Bảng giá bóc tách theo mét dài tủ bếp và m2 mặt đứng tủ áo.
+8. [Giới Thiệu Về Công Ty Thiết Kế Quốc Phan 2017](https://karinaenguyen.github.io/demo/blog/gioi-thieu-cong-ty-thiet-ke-quoc-phan.html): Lịch sử phát triển và cam kết chất lượng đồ gỗ xưởng mộc từ 2017.
+9. [Thi Công Nội Thất Phú Mỹ Hưng Quận 7](https://karinaenguyen.github.io/demo/blog/thi-cong-noi-that-phu-my-hung-quan-7.html): Hoàn thiện căn hộ biệt thự cao cấp phong cách sang trọng.
+10. [Xưởng Sản Xuất Nội Thất Quốc Phan](https://karinaenguyen.github.io/demo/blog/xuong-san-xuat-noi-that-quoc-phan.html): Dây chuyền sản xuất máy CNC, dán cạnh nẹp tự động và buồng sơn cách bụi.
+11. [Nội Thất Chung Cư Cao Cấp](https://karinaenguyen.github.io/demo/blog/noi-that-chung-cu-cao-cap.html): Tiêu chuẩn thẩm mỹ và công thái học cho căn hộ hạng sang.
+12. [Tủ Bếp Bình Thạnh Chất Lượng Cao](https://karinaenguyen.github.io/demo/blog/tu-bep-binh-thanh-chat-luong-cao.html): Ứng dụng bề mặt MFC phủ Melamine chống trầy xước và ẩm nhiệt.
+13. [Thiết Kế Và Thi Công Căn Hộ Hà Đô Centrosa](https://karinaenguyen.github.io/demo/blog/thiet-ke-thi-cong-can-ho-ha-do-centrosa.html): Hồ sơ bàn giao căn hộ 86m2 Quận 10 chìa khóa trao tay.
+14. [Thi Công Tủ Bếp TPHCM Uy Tín](https://karinaenguyen.github.io/demo/blog/thi-cong-tu-bep-tphcm-uy-tin.html): Giải pháp phụ kiện thông minh Blum Hafele và chính sách bảo hành 5 năm.
+15. [Thiết Kế Nội Thất Căn Hộ 2 Phòng Ngủ](https://karinaenguyen.github.io/demo/blog/thiet-ke-noi-that-can-ho-2-phong-ngu.html): Các mẫu bố trí phòng khách liền bếp đẹp hiện đại cho gia đình trẻ.
+16. [Thi Công Nội Thất Chung Cư 2 Phòng Ngủ](https://karinaenguyen.github.io/demo/blog/thi-cong-noi-that-chung-cu-2-phong-ngu.html): Quy trình may đo lắp ráp thực tế trong vòng 12 ngày.
+17. [Thiết Kế Thi Công Phòng Ngủ Đẹp](https://karinaenguyen.github.io/demo/blog/thiet-ke-thi-cong-phong-ngu-dep.html): Giường ngủ thông minh có ngăn kéo và tủ áo cánh kính thời thượng.
+18. [Thi Công Nội Thất Chung Cư SSG Tower](https://karinaenguyen.github.io/demo/blog/thi-cong-noi-that-chung-cu-ssg-tower.html): Hoàn thiện căn hộ 115m2 view sông Sài Gòn tại Bình Thạnh.
+19. [Mẫu Nội Thất Đẹp 2024](https://karinaenguyen.github.io/demo/blog/tong-hop-mau-noi-that-dep-xu-huong-moi.html): Bộ sưu tập xu hướng đường cong mềm mại và cánh tủ phẳng không tay nắm.
+20. [Thi Công Nội Thất Nhà Phố Tại Gò Vấp](https://karinaenguyen.github.io/demo/blog/thi-cong-noi-that-nha-pho-go-vap.html): Thiết kế tối ưu giếng trời lấy sáng và cầu thang gỗ kính hiện đại.
+21. [Trọn Gói Nội Thất Căn Hộ 2 Phòng Ngủ SSR](https://karinaenguyen.github.io/demo/blog/tron-goi-noi-that-can-ho-2-phong-ngu-ssr.html): Gói thi công trọn gói tại chung cư Saigon South Residences.
+22. [Nội Thất Chung Cư Kiểu Nhật Japandi 2024](https://karinaenguyen.github.io/demo/blog/noi-that-chung-cu-kieu-nhat-japandi.html): Tinh thần Wabi Sabi kết hợp Bắc Âu, gỗ sồi sáng màu và mây đan.
+23. [Thiết Kế Chung Cư Tối Giản Kiểu Nhật](https://karinaenguyen.github.io/demo/blog/thiet-ke-chung-cu-toi-gian-kieu-nhat.html): Lối sống Less is more, hệ tủ giấu kín cánh phẳng thanh lịch.
+24. [Thiết Kế Nội Thất Chung Cư 90m2 Tại Quận 2](https://karinaenguyen.github.io/demo/blog/thiet-ke-noi-that-chung-cu-90m2-quan-2.html): Căn hộ 3 phòng ngủ khoáng đạt đón gió sông tại TP. Thủ Đức.
+
