@@ -45,6 +45,12 @@
 - [Khách Hàng Cá Nhân](https://karinaenguyen.github.io/demo/danh-cho-chu-nha.html): Dành riêng cho chủ nhà, căn hộ chung cư.
 - [Chủ Đầu Tư](https://karinaenguyen.github.io/demo/danh-cho-nha-dau-tu.html): Dành cho chủ đầu tư căn hộ dịch vụ, shophouse.
 - [Đối Tác B2B](https://karinaenguyen.github.io/demo/danh-cho-doi-tac.html): Dành cho nhà thầu, kiến trúc sư hợp tác gia công xưởng.
+- [Quan Hệ Báo Chí & Media Kit](https://karinaenguyen.github.io/demo/quan-he-bao-chi.html): Thông cáo báo chí, hồ sơ thương hiệu, tư liệu truyền thông và liên hệ phỏng vấn.
+- [Chính Sách Bảo Mật](https://karinaenguyen.github.io/demo/chinh-sach-bao-mat.html): Bảo vệ dữ liệu cá nhân theo Nghị định 52/2013/NĐ-CP và Nghị định 13/2023/NĐ-CP.
+- [Chính Sách & Phương Thức Thanh Toán](https://karinaenguyen.github.io/demo/chinh-sach-thanh-toan.html): Quy định thanh toán theo 3 đợt nghiệm thu, số tài khoản doanh nghiệp chính thức.
+- [Chính Sách Bảo Hành & Bảo Trì](https://karinaenguyen.github.io/demo/chinh-sach-bao-hanh-bao-tri.html): Bảo hành kết cấu gỗ 5 năm, xử lý kỹ thuật trong 24h, bảo trì trọn đời.
+- [Chính Sách Giao Hàng & Lắp Đặt](https://karinaenguyen.github.io/demo/chinh-sach-giao-hang-lap-dat.html): Vận chuyển, lắp ráp tại công trình, bọc lót chống trầy xước và nghiệm thu bàn giao.
+- [Điều Khoản Dịch Vụ Mua Bán](https://karinaenguyen.github.io/demo/dieu-khoan-dich-vu.html): Hợp đồng kinh tế, quyền và nghĩa vụ hai bên, quy trình xử lý tranh chấp theo luật Việt Nam.
 - [Sơ Đồ Trang Web (Sitemap)](https://karinaenguyen.github.io/demo/sitemap.xml): XML sitemap chính thức cho công cụ tìm kiếm và AI bots.
 
 ## Danh Mục 24 Số Bản Tin & Cẩm Nang Chuyên Sâu (24 Knowledge Base Articles)

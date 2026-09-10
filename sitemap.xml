@@ -67,6 +67,42 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://karinaenguyen.github.io/demo/quan-he-bao-chi.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://karinaenguyen.github.io/demo/chinh-sach-bao-mat.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://karinaenguyen.github.io/demo/chinh-sach-thanh-toan.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://karinaenguyen.github.io/demo/chinh-sach-bao-hanh-bao-tri.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://karinaenguyen.github.io/demo/chinh-sach-giao-hang-lap-dat.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://karinaenguyen.github.io/demo/dieu-khoan-dich-vu.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://karinaenguyen.github.io/demo/blog/don-vi-san-xuat-noi-that-quan-binh-thanh-2024.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>monthly</changefreq>
